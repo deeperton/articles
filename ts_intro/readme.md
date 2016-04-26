@@ -3,7 +3,7 @@
 Этот текст в виде двух частей, был опубликован на DOU 
 
 * (2016-05-25) [Часть 1](http://dou.ua/lenta/articles/typescript-1/)
-* ...
+* (2016-05-26) [Часть 2](http://dou.ua/lenta/articles/typescript-2/)
 
 # Intro
 
